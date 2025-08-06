@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Migrations\\20250806094748_RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AuthAPI\\Migrations\\20250806094748_RefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\userdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\authapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\authapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\roleassigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\dtos\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\dtos\\createroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\authapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|c:\\users\\angie\\onedrive\\escritorio\\idgs904\\authapi\\authapi\\migrations\\20250710010754_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10966A5D-A18A-4DD6-B775-60EA3FF39280}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\migrations\\20250710010754_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vwwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:34:49.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAlwDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:39:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T00:02:03.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\TokenDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\TokenDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:10:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:31:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250806094748_RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Migrations\\20250806094748_RefreshToken.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250806094748_RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Migrations\\20250806094748_RefreshToken.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250806094748_RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:47:49.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Model\\AppUser.cs",
+              "RelativeToolTip": "AuthAPI\\Model\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:50:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\ChangePasswordDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:57:30.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\ResetPasswordDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:30:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T05:27:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\UserDetailDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\UserDetailDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\UserDetailDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\UserDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:29:13.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:04:09.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T23:52:56.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:55:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T00:23:41.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthAPI.http",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\AuthAPI.http",
+              "RelativeDocumentMoniker": "AuthAPI\\AuthAPI.http",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\AuthAPI.http",
+              "RelativeToolTip": "AuthAPI\\AuthAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-05T02:36:27.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\RoleResponseDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\RoleResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:22:58.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:15:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "AuthAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:54:37.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleAssignDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\RoleAssignDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\RoleAssignDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\RoleAssignDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\RoleAssignDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T03:23:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\CreateRoleDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\CreateRoleDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\CreateRoleDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\CreateRoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:04:04.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "AuthAPI\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:26:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250710010754_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Migrations\\20250710010754_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20250710010754_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\Migrations\\20250710010754_InitialCreate.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20250710010754_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:07:54.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\AuthAPI.csproj",
+              "RelativeDocumentMoniker": "AuthAPI\\AuthAPI.csproj",
+              "ToolTip": "C:\\Users\\Angie\\OneDrive\\Escritorio\\IDGS904\\AuthAPI\\AuthAPI\\AuthAPI.csproj",
+              "RelativeToolTip": "AuthAPI\\AuthAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T23:49:00.465Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
